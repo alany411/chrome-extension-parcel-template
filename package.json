@@ -12,7 +12,7 @@
     "@types/chrome": "0.0.179",
     "@types/prettier": "2.4.4",
     "@types/react": "17.0.39",
-    "@types/react-dom": "17.0.12",
+    "@types/react-dom": "17.0.13",
     "@types/tailwindcss": "3.0.9",
     "@typescript-eslint/eslint-plugin": "5.13.0",
     "@typescript-eslint/parser": "5.13.0",
