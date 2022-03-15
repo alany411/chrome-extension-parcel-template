@@ -1,1 +1,1 @@
-import 'crx-hotreload';
+export {};

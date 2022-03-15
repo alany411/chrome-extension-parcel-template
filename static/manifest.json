@@ -2,13 +2,13 @@
   "name": "Chrome Extension Template",
   "version": "1.0.0",
   "description": "Boilerplate for creating a Chrome Extension",
-  "manifest_version": 2,
+  "manifest_version": 3,
   "permissions": [],
-  "browser_action": {
+  "action": {
     "default_popup": "popup.html"
   },
   "background": {
-    "scripts": ["background.js"]
+    "service_worker": "background.js"
   },
   "content_scripts": [
     {
