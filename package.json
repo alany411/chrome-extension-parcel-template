@@ -9,7 +9,7 @@
     "clean": "rimraf .parcel-cache && rimraf dist"
   },
   "devDependencies": {
-    "@types/chrome": "0.0.184",
+    "@types/chrome": "0.0.185",
     "@types/node": "17.0.24",
     "@types/prettier": "2.6.1",
     "@types/react": "18.0.9",
